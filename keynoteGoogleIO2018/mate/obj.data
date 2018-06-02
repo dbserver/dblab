@@ -1,0 +1,6 @@
+classes=1
+train  = data/mate/train.txt
+valid  = data/mate/train.txt
+names = data/mate/obj.names
+backup = backup/
+
