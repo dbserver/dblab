@@ -1,0 +1,1 @@
+Fonte do código: http://osoyoo.com/2017/05/16/nodemcu-lesson-11-potentiometer-mqtt/
