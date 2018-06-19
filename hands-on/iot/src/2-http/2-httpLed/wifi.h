@@ -24,8 +24,8 @@ class WFclass
       void setup();
       
     private:      
-      const char* c_ssid = "DBLABDevices"; //"DBDevices";
-      const char* c_pass = "@rdu!n0$"; //"!mP@db@dM";
+      const char* c_ssid = "DBDevices"; //"DBLABDevices";
+      const char* c_pass = "!mP@db@dM"; //"@rdu!n0$";
 
       int status;
 };
