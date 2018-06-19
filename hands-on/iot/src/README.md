@@ -21,5 +21,5 @@ Este diretório contém os códigos-fonte utilizados nos experimentos, organizad
 4. Integração com periféricos (diretório _4-perifericos_)
  * 1-lcd
  * 2-hcsr04
- * tempSensor
+ * 3-tempSensor
 
